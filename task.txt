@@ -1,0 +1,9 @@
+LIST Task
+
+1) Remove duplicate  elements from list
+2) Find palindrome name from list "number" count
+3) Find palindrome name from list and store it into another list
+
+TUPLE Task
+
+4) Add data to tuple from user and print it
